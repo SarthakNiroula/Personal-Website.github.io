@@ -1,0 +1,245 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+
+}
+body{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+	height:0.1;
+	background-size: cover;
+	background position: right;
+}
+
+ul
+{    
+	float: right;
+	list-style-type: none;
+	margin-top: 25px}
+ul li
+{
+	display: inline-block;
+	margin: 5px;
+}
+ul li a
+{
+	text-decoration: none;
+	color:white;
+	border:1px solid transparent;
+	transition: o.6s ease;
+}
+
+ul li a:hover
+{  
+	background-color: white;
+	color:red;
+
+}
+
+
+.main
+{
+	max-width: :1200px;
+	margin: 25px;
+}
+
+
+.logo a h1
+{
+	float:left;
+	color:#00ff99;
+	border:1px solid transparent;
+}
+
+.logo a h1:hover
+{
+	background-color:pink;
+	color:purple;
+}
+
+.logo a
+{
+	text-decoration: none;
+}
+
+
+
+
+.title .paragraph
+{
+	background: pink;
+}
+ 
+
+
+
+.frame
+{
+	background: #33ccff;
+}
+
+
+
+
+.title
+{           
+	color: blue;
+	
+	text-align: center;
+	
+	border: 1px solid transparent;
+
+  
+
+}
+
+
+
+ .title:hover
+{
+	
+	color: red;
+
+}
+.paragraph
+{
+		text-align: center;
+	color: green;
+   	
+}
+
+
+.paragraph:hover 
+{
+	color: #cc0099;
+
+}
+
+
+
+
+
+html{
+	scroll-behavior:smooth;
+}
+
+
+
+table tr th 
+{
+	background-color:#ffff66;
+}
+
+table tr td
+{
+	background: pink;
+	color:green;
+}
+
+
+
+
+.offer
+{
+	color: red;
+	background-color: #ffccff;
+
+}
+.offer:hover
+{
+	color: purple;
+}
+
+.corona
+{
+	color: red;
+	background-color: blue;
+}
+
+
+.corona:hover
+{
+	background-color: purple;
+}
+
+
+
+.team
+{
+	color:yellow;
+	text-align: center;
+	background-color: #669999;
+}
+
+.team h2 a
+{
+	text-decoration: none;
+}
+
+
+
+.team h2 a:hover
+{
+	color: red;
+}
+
+
+
+
+
+
+.color
+{
+	color: red;
+}
+
+
+.color:hover
+{
+	color: purple;
+
+}
+.top th h1:hover
+{
+	color :red;
+
+}
+
+
+.gallery h1
+{
+	color: purple;
+
+}
+
+
+
+.gallery h1:hover
+{
+	color: pink;
+
+}
+
+
+.contact
+{
+	color:purple;
+	background-color: yellow;
+}
+
+h1 b
+{
+	color: green;
+}
+
+
+h2
+{
+	text-align:right;
+}
+
+.name
+{
+	float:left;
+}
